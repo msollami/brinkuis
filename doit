@@ -1,0 +1,4 @@
+./brinkhuis $1
+./brinkhuis2t1 < a1$1.txt
+./brinkhuis2t2 < a2$1.txt
+./dhcs 1$1
